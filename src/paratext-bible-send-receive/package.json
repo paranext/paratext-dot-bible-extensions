@@ -1,10 +1,10 @@
 {
-  "name": "paranext-extension-template",
+  "name": "paratext-bible-send-receive",
   "private": true,
   "version": "0.0.1",
   "main": "src/main.js",
-  "types": "src/types/paranext-extension-template.d.ts",
-  "author": "Paranext",
+  "types": "src/types/paratext-bible-send-receive.d.ts",
+  "author": "SIL",
   "license": "MIT",
   "scripts": {
     "build:web-view": "webpack --config ./webpack/webpack.config.web-view.ts",

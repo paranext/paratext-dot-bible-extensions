@@ -4,8 +4,8 @@
   "supportUrl": "",
   "localizedDisplayInfo": {
     "en": {
-      "displayName": "Paranext Extension Template",
-      "shortSummary": "Base template for a Paranext Extension",
+      "displayName": "Paratext Send/Receive",
+      "shortSummary": "Send/Receive extension for Paratext 10 Studio",
       "description": "assets/descriptions/description-en.md"
     }
   }
